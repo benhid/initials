@@ -11,6 +11,24 @@ Available fonts:
 * [cheshire initials](https://www.dafont.com/cheshire-initials.font)
 * [kanzlei initialen](https://www.dafont.com/kanzlei.font)
 
+<details><summary><b>Preview</summary>
+<p>
+
+![goudy initialen](imgs/goudy-initialen.png)
+goudy initialen
+
+![deutsche zierschrift](imgs/deutsche-zierschrift.png)
+deutsche zierschrift
+
+![cheshire initials](imgs/cheshire-initials.png)
+cheshire initials
+
+![kanzlei initialen](imgs/kanzlei-initialen.png)
+kanzlei initialen
+
+</p>
+</details>
+
 #### How to
 
 Include the following lines to the `<head>` element:
