@@ -14,19 +14,19 @@ Available fonts:
 <details><summary>Preview</summary>
 <p>
 
-![goudy initialen](imgs/goudy-initialen.png)
+<img src=imgs/goudy-initialen.png alt="goudy initialen" width="200">
 
 goudy initialen
 
-![deutsche zierschrift](imgs/deutsche-zierschrift.png)
+<img src=imgs/deutsche-zierschrift.png alt="deutsche zierschrift" width="200">
 
 deutsche zierschrift
 
-![cheshire initials](imgs/cheshire-initials.png)
+<img src=imgs/cheshire-initials.png alt="cheshire initials" width="200">
 
 cheshire initials
 
-![kanzlei initialen](imgs/kanzlei-initialen.png)
+<img src=imgs/kanzlei-initialen.png alt="kanzlei initialen" width="200">
 
 kanzlei initialen
 
