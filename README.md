@@ -1,4 +1,4 @@
-#### initials
+### initials
 
 > This project is based on the -beautifully crafted- **gwern** website. Check out his [blog](https://www.gwern.net/About#implementation-details) to read more about this implementation. 
 
@@ -11,7 +11,7 @@ Available fonts:
 * [cheshire initials](https://www.dafont.com/cheshire-initials.font)
 * [kanzlei initialen](https://www.dafont.com/kanzlei.font)
 
-##### How to
+#### How to
 
 Include the following lines to the `<head>` element:
 
