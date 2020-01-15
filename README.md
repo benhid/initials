@@ -30,3 +30,7 @@ Include the following lines to the `<head>` element:
 ```
 
 Full example [here](index.html).
+
+#### License
+
+This project is licensed under the terms of the GNU GPLv3 - see the [LICENSE](LICENSE) file for details.
